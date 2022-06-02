@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandro",
+      "empresa": "Coapde",
+      "email": "oalejandroelias@gmail.com",
+      "telefono": "44644",
+      "notas": "Nota",
+      "id": 1
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "Coapde",
+      "email": "oalejandroelias@gmail.com",
+      "telefono": "44644",
+      "notas": "Nota",
+      "id": 2
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "Coapde",
+      "email": "oalejandroelias@gmail.com",
+      "telefono": "44644",
+      "notas": "Test",
+      "id": 3
+    }
+  ]
+}
